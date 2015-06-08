@@ -8,7 +8,12 @@
 
 html,
 body {
-    height: 100%;
+    height: 100%;   
+
+}
+
+body {
+    background: url("/img/ricepaper.png") repeat;
 }
 
 body {
@@ -22,6 +27,12 @@ body {
 .img-hover:hover {
     opacity: 0.8;
 }
+
+
+
+
+
+
 
 /* Home Page Carousel */
 
