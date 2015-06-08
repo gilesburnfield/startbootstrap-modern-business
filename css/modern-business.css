@@ -29,8 +29,40 @@ body {
 }
 
 
+.breadcrumb {
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: #003300;
+  border-radius: 4px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #FF8400;
+
+}
 
 
+.navbar-inverse {
+    background-color: #003300;
+    border-color: #003300;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: #003300;
+}
+
+
+
+
+body {
+
+  color: #6599FF;
+}
 
 
 
