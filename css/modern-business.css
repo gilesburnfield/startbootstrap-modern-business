@@ -33,7 +33,7 @@ body {
   padding: 8px 15px;
   margin-bottom: 20px;
   list-style: none;
-  background-color: #003300;
+  background-color: #000080;;
   border-radius: 4px;
 }
 
@@ -41,19 +41,31 @@ body {
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: #FF8400;
+  color: #FF69B4;
 
 }
 
 
 .navbar-inverse {
-    background-color: #003300;
-    border-color: #003300;
+    background-color: #000080;
+    border-color: #000080;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-  color: #fff;
-  background-color: #003300;
+  color: #000080;
+  background-color: #FF69B4;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #FF69B4;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #FF69B4;
+}
+
+.breadcrumb>.active {
+  color: #FF69B4;
 }
 
 
@@ -61,7 +73,7 @@ body {
 
 body {
 
-  color: #6599FF;
+  color: #000000;
 }
 
 
