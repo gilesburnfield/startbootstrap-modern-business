@@ -33,7 +33,7 @@ body {
   padding: 8px 15px;
   margin-bottom: 20px;
   list-style: none;
-  background-color: #000080;;
+  background-color: #000050;;
   border-radius: 4px;
 }
 
@@ -41,31 +41,31 @@ body {
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: #FF69B4;
+  color: #ff96ca;
 
 }
 
 
 .navbar-inverse {
-    background-color: #000080;
-    border-color: #000080;
+    background-color: #000050;
+    border-color: #000050;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-  color: #000080;
-  background-color: #FF69B4;
+  color: #000050;
+  background-color: #ff96ca;
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: #FF69B4;
+  color: #ff96ca;
 }
 
 .navbar-inverse .navbar-brand {
-  color: #FF69B4;
+  color: #ff96ca;
 }
 
 .breadcrumb>.active {
-  color: #FF69B4;
+  color: #;
 }
 
 
@@ -76,6 +76,19 @@ body {
   color: #000000;
 }
 
+
+
+.btn-primary {
+  color: #fff;
+  background-color: #000050;
+  border-color: #2e6da4;
+}
+
+.btn-inverse {
+  color: #fff;
+  background-color: #ff96ca;
+  border-color: #2e6da4;
+}
 
 
 /* Home Page Carousel */

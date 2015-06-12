@@ -16,7 +16,7 @@ $email_address = $_POST['email'];
 $message = $_POST['message'];
 	
 // create email body and send it	
-$to = 'gadburnfield@gmail.com'; // PUT YOUR EMAIL ADDRESS HERE
+$to = 'william@thelondongardenguy.com'; // PUT YOUR EMAIL ADDRESS HERE
 $email_subject = "enquiry London Garden Guys :  $name"; // EDIT THE EMAIL SUBJECT LINE HERE
 $email_body = "You have received a new website's enquiry from London Garden Guys contact form.\n\n"."Here are the details:\n\nName: $name\n\nPhone: $phone\n\nEmail: $email_address\n\nMessage:\n$message";
 $headers = "From: noreply@Londongardenguys.com\n";
